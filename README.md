@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Swift, Cotline**
 
-- 📫 How to reach me **tg @kpdv1 // please, write a question right away**
+- 📫 How to reach me **tg @osnowa // please, write a question right away**
 
 - ⚡ Fun fact **I have accidentally and mistakenly updated my iPhones 7 times**
 
