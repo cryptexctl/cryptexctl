@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </script>
+    <link rel="icon" href="img/logo.jpeg" type="image/jpeg">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/loading.css">
+    <script src="js/loading.js"></script>
+    <title>Lain Iwakura</title>
+    <script>
+        if (/Mobi|Android/i.test(navigator.userAgent)) {
+            console.log("device is mobile")
+            document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=device-width, initial-scale=0.7');
+            window.addEventListener("DOMContentLoaded", () => {
+                document.querySelectorAll('.description').forEach((project) => {
+                project.style.opacity = 1;
+                });
+            })
+        }
+    </script>
+</head>
+<body>
+    <div id="loading-menu" class="loading-container">
+        <div class="loading">
+            <h1>Lain</h1>
+            <p id="loading_items-remain">Javascript is not yet loaded.</p>
+        </div>
+    </div>
+
+    <div id="main" class="main">
+        <nav>
+            <div class="left">
+                <h2>Lain</h2>
+            </div>
+
+            <div class="right">
+                <a href="https://t.me/systemxplore">Telegram</a>
+                <a href="mailto:l4499313@gmail.com">Contact me</a>
+            </div>
+        </nav>
+
+        <div class="section">
+            <h1 id="special">Hi</h1>
+            <p>I am Lain. Writing shitty code that nobody needs, but is there for some reason x) </p>
+            <p>I make stupid applications in C, C++ and Python (Golang sometimes)</p>
+        </div>
+
+        <div class="section socials">
+            <h2>Check out my socials</h2>
+            <a href="https://github.com/cryptextctl"><img width="64" height=64 src="img/socials/icons8-github.svg" alt="GitHub"></a>
+            <a href="http://212.113.119.5/lain"><img width="64" height=64 src="img/socials/gitea.png" alt="Gitea"></a>
+            <a href="https://tiktok.com/@arbung1337"><img width="64" height=64 src="img/socials/icons8-tiktok.svg" alt="TikTok"></a>
+            <a href="mailto:l4499313@gmail.com"><img width="64" height=64 src="img/socials/icons8-mail-64.png" alt="Mail"></a>
+        </div>
+
+        <div class="section">
+            <h2>Check out my Projects</h2>
+
+            <div class="section projects">
+                <a href="http://212.113.119.5/lain/train-osource" target="_blank">
+                    <div class="project">
+                        <p class="name">Train</p>
+                        <p class="description">A simple package manager based on manifest files. It seems to be able to repo, build and download binary files. It is unstable on Windows, as I know.</p>
+                    </div>
+                </a>
+    
+                <a href="http://212.113.119.5/lain/Cerberus" target="_blank">
+                    <div class="project">
+                        <p class="name">Cerberus</p>
+                        <p class="description">Simple and rather pathetic attempts at data encryption.</p>
+                    </div>
+                </a>
+                
+                <a href="https://github.com/cryptexctl/EasyMusicAndroid" target="_blank">
+                    <div class="project">
+                        <p class="name">EasyMusic</p>
+                        <p class="description">A music player that we made to work with a stream of music that one of my friends decided to pick up. My server is sadly no longer working x(</p>
+                    </div>
+                </a>
+                
+                <a href="https://github.com/cryptexctl/EasyMusic" target="_blank">
+                    <div class="project">
+                        <p class="name">EasyMusic (iOS version)</p>
+                        <p class="description">Same as above, but on iOS</p>
+                    </div>
+                </a>
+                
+                
+                <br>
+                <a href="https://github.com/cryptexctl" target="_blank">and more projects at my GitHub</a>
+            </div>
+
+        </div>
+        <div class="credits">
+            <p>Designed and Developed by me; Icons by Icon8/Gitea favicon....</p>
+        </div>
+    </div>
+
+</body>
+</html>

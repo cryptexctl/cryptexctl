@@ -1,0 +1,35 @@
+/* --- Loading --- */
+
+.loading {
+    transition: opacity 0.5s ease-in, transform 0.5s ease-in-out;
+    transform: scale(1);
+    animation: contentFadeIn 0.7s ease-in-out;
+    font-family: "Jetbrains Mono", monospace;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.87);
+}
+
+@keyframes contentFadeIn {
+    from {
+        transform: scale(0.9);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+#loading_items-remain {
+    font-size: small;
+}
+
+.loading-container {
+    line-height: 8.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh; 
+}
+
