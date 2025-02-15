@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cryptexctl" alt="cryptexctl" /></a> </p>
 
-- 🔭 I’m currently working on **EasyMusic**
+- 🔭 I’m currently working on **[Tachyon](https://github.com/tachyon-sh/tachyon)**
 
 - 🌱 I’m currently learning **Swift, Cotline**
 
-- 📫 How to reach me **tg @osnowa // please, write a question right away**
+- 📫 How to reach me **tg @systemxplore // please, write a question right away**
 
 - ⚡ Fun fact **I have accidentally and mistakenly updated my iPhones 7 times**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: tg @systemxplore</h3>
 <p align="left">
 </p>
 
