@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptexctl&label=Profile%20views&color=0e75b6&style=flat" alt="cryptexctl" /> </p>
 
-- 🔭 I’m currently working on **mashfs**
+- 🔭 I’m currently working on **mashfs & talc (maybe)**
 
 - 🌱 I’m currently learning **Rust, re-learning Python3.13**
 
