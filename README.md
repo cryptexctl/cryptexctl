@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Swift, Kotlin**
+- 🌱 I’m currently learning **Rust, re-learning Python3.13**
 
 - 📫 How to reach me **tg <a href="https://t.me/systemxplore">@systemxplore</a> // please, write a question right away**
 
