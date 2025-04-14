@@ -19,7 +19,7 @@
 
 ## Devices
  - MacBook Air M3 | 512 GB // 16 GB
- - ThinkPad X230 | i5-3210M =<512GB // 16 GB
+ - ThinkPad X230 | i5-3210M =<1TB // 16 GB
  - NothinPhone 1 | 16 GB // 256 GB // NOT ROOTED RN
- - Pixel 3a | LineageOS 22.1 (latest) | idk GB // 64 GB // ROOTED
+ - Pixel 3a | PostmarketOS (edge) | 3.5 GB // 64 GB 
  - iPhone SE 2022 | iOS 18.3.2 | 64 GB // 100~87% // NOT JAILBROKEN, ONLY NUGGET
